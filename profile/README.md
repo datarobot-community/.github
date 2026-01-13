@@ -14,6 +14,7 @@ For detailed information, see our [Documentation](https://docs.datarobot.com/en/
 * https://github.com/datarobot-community/guarded-rag-assistant
 * https://github.com/datarobot-community/forecast-assistant
 * https://github.com/datarobot-community/predictive-ai-starter
+* https://github.com/datarobot-community/datarobot-agent-application
 
 ## Declarative API
 
