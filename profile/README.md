@@ -8,13 +8,13 @@ Application templates provide a code-first, end-to-end pipeline for provisioning
 
 For detailed information, see our [Documentation](https://docs.datarobot.com/en/docs/workbench/wb-apps/app-templates/index.html). To jump into the code, here our the repositories:
 
+* https://github.com/datarobot-community/datarobot-agent-application
 * https://github.com/datarobot-community/talk-to-my-docs-agents
 * https://github.com/datarobot-community/talk-to-my-data-agent
 * https://github.com/datarobot-community/predictive-content-generator
 * https://github.com/datarobot-community/guarded-rag-assistant
 * https://github.com/datarobot-community/forecast-assistant
 * https://github.com/datarobot-community/predictive-ai-starter
-* https://github.com/datarobot-community/datarobot-agent-application
 
 ## Declarative API
 
