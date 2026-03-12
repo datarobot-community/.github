@@ -10,6 +10,7 @@ For detailed information, see our [Documentation](https://docs.datarobot.com/en/
 
 * https://github.com/datarobot-community/datarobot-agent-application
 * https://github.com/datarobot-community/talk-to-my-docs-agents
+* https://github.com/datarobot-community/datarobot-mcp-template
 * https://github.com/datarobot-community/talk-to-my-data-agent
 * https://github.com/datarobot-community/predictive-content-generator
 * https://github.com/datarobot-community/guarded-rag-assistant
