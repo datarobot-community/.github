@@ -15,7 +15,7 @@
 </p>
 <p align="center">
   <a href="https://join.slack.com/t/datarobot-community/shared_invite/zt-3uzfp8k50-SUdMqeux25ok9_5wr4okrg">
-    <img src="https://img.shields.io/badge/%23applications-a?label=Slack&labelColor=30373D&color=81FBA6" alt="Slack #applications">
+    <img src="https://img.shields.io/badge/%23all--datarobot--community-a?label=Slack&labelColor=30373D&color=81FBA6" alt="Slack #all-datarobot-community">
   </a>
 </p>
 
