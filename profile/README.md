@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/datarobot-community/app-framework">
+  <a href="https://datarobot.com">
     <img src="https://af.datarobot.com/img/datarobot_logo.avif" width="600px" alt="DataRobot Logo"/>
   </a>
 </p>
