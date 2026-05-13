@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-    <h2 align="center">DataRobot Community</h3>
+    <h2 align="center">DataRobot Community</h2>
 </p>
 <p align="center">
   <a href="https://datarobot.com">Homepage</a>
