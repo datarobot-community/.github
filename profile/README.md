@@ -1,8 +1,26 @@
-# DataRobot Community
+<p align="center">
+  <a href="https://github.com/datarobot-community/app-framework">
+    <img src="https://af.datarobot.com/img/datarobot_logo.avif" width="600px" alt="DataRobot Logo"/>
+  </a>
+</p>
+<p align="center">
+    <h2 align="center">DataRobot Community</h3>
+</p>
+<p align="center">
+  <a href="https://datarobot.com">Homepage</a>
+  ·
+  <a href="https://docs.datarobot.com">Documentation</a>
+  ·
+  <a href="https://docs.datarobot.com/en/docs/get-started/troubleshooting/general-help.html">Support</a>
+</p>
+<p align="center">
+  <a href="https://join.slack.com/t/datarobot-community/shared_invite/zt-3uzfp8k50-SUdMqeux25ok9_5wr4okrg">
+    <img src="https://img.shields.io/badge/%23applications-a?label=Slack&labelColor=30373D&color=81FBA6" alt="Slack #applications">
+  </a>
+</p>
 
 
-
-## Foundational AI Application Templates
+### Foundational AI Application Templates
 
 Application templates provide a code-first, end-to-end pipeline for provisioning DataRobot resources. With customizable components, templates assist you by programmatically generating DataRobot resources that support predictive and generative use cases. The templates include necessary metadata, perform auto-installation of dependencies configuration settings, and seamlessly integrate with existing DataRobot infrastructure to help you quickly deploy and configure solutions.
 
@@ -17,7 +35,7 @@ For detailed information, see our [Documentation](https://docs.datarobot.com/en/
 * https://github.com/datarobot-community/forecast-assistant
 * https://github.com/datarobot-community/predictive-ai-starter
 
-## Declarative API
+### Declarative API
 
 DataRobot offers a Terraform-native declarative API used to programmatically provision DataRobot entities such as models, deployments, applications, and more. DataRobot has two services for using the declarative API: Pulumi and Terraform. DataRobot recommends using the service that supports your engineering needs. Pulumi is based on Python, while Terraform is based on yaml. Note that application templates are configured for Pulumi by default. See our complete [Product Documentation](https://docs.datarobot.com/en/docs/api/reference/declarative-api.html), our [Pulumi Registry Documentation](https://www.pulumi.com/registry/packages/datarobot/) or our [Terraform Registry Documentation](https://registry.terraform.io/providers/datarobot-community/datarobot/latest).
 
