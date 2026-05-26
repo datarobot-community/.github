@@ -20,9 +20,9 @@
 
 ### Foundational AI Application Templates
 
-Application templates provide a code-first, end-to-end pipeline for provisioning DataRobot resources. With customizable components, templates assist you by programmatically generating DataRobot resources that support predictive and generative use cases. The templates include necessary metadata, perform auto-installation of dependencies configuration settings, and seamlessly integrate with existing DataRobot infrastructure to help you quickly deploy and configure solutions.
+Application templates provide a code-first, end-to-end pipeline for provisioning DataRobot resources. With customizable components, templates assist you by programmatically generating DataRobot resources that support predictive and generative use cases. The templates include necessary metadata, perform auto-installation of dependencies and configuration settings, and seamlessly integrate with existing DataRobot infrastructure to help you quickly deploy and configure solutions.
 
-For detailed information, see our [Documentation](https://docs.datarobot.com/en/docs/workbench/wb-apps/app-templates/index.html). To jump into the code, here our the repositories:
+For detailed information, see our [documentation](https://docs.datarobot.com/en/docs/workbench/wb-apps/app-templates/index.html). To jump into the code, here are the repositories:
 
 * https://github.com/datarobot-community/datarobot-agent-application
 * https://github.com/datarobot-community/talk-to-my-docs-agents
